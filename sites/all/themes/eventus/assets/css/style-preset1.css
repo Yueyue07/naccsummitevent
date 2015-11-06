@@ -2376,6 +2376,14 @@ ul.menu {
 	margin: 6px 6px;
 }
 
+#block-locale-language > div.content > ul  li > a{
+	color: #718091;
+}
+
+#block-locale-language > div.content > ul  li > a.active{
+	color: white;
+}
+
 .block h2.block-title:after {
   background: #049CDB;
   height: 1px;
