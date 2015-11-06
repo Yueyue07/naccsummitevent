@@ -2359,6 +2359,12 @@ ul.menu {
   position: relative;
   font-size: 24px;
 }
+
+#block-locale-language > h2{
+
+	display:none;
+}
+
 .block h2.block-title:after {
   background: #049CDB;
   height: 1px;
