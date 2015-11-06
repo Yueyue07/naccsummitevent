@@ -2369,6 +2369,10 @@ ul.menu {
 		list-style-type: none;
 }
 
+#block-locale-language > div.content > ul li{
+	display:inline;
+}
+
 .block h2.block-title:after {
   background: #049CDB;
   height: 1px;
