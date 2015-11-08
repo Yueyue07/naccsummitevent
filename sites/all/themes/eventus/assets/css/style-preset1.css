@@ -1054,7 +1054,8 @@ table .uk-badge {
   padding: 0;
 }
 .view-team .team-member-info-wrp .team-social ul li {
-  display: inline-block;
+  /*display: inline-block;*/
+  display: none;	
   list-style: none;
 }
 .view-team .team-member-info-wrp .team-social ul li a {
